@@ -6,6 +6,7 @@
   - [x] inline πεδία (foreign key)
   - [ ] αλληλοεξαρτόμενα inlines
 - [ ] tidy-up urls
+- [ ] admin:  show/hide extra fieldsets according to selection (κεντρικης επιτροπής/επιθεωρήσεων/απ. διοικ.)
 - [x] προσθήκη συνδιαστικού φίλτρου (με ή άνευ επεξεραγσία)
 - [x] εκτύπωση δελτίου
 - [x] άνοιγμα τελικών υποβολών
